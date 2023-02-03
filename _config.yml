@@ -2,3 +2,5 @@ title: Hi
 description: samoe
 production_url: 
 theme: jekyll-theme-slate
+include:
+   - .well-known
